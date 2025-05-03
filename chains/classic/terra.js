@@ -282,7 +282,7 @@ module.exports = {
       token: "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
       symbol: "SON",
       name: "Sonic(k) Token",
-      icon: "https://swap.sonikchain.com/sonic32.png",
+      icon: "https://raw.githubusercontent.com/visux/logos/main/sonic32.png",
       decimals: 6,
     },
     {
